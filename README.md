@@ -1,5 +1,9 @@
 # Olá, muito prazer!
 
+<a href="www.linkedin.com/in/willyscatao" target="_blank">
+  <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
+</a>
+
 Me chamo **Willy de Souza Catão**, sou de São Paulo, Brasil,  e atualmente estou me capacitando para ser um **Desenvolvedor Full Stack**  :alien: :desktop_computer: :keyboard: :computer_mouse:
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/gcZxPiUFzoHgA/giphy.gif" width="400px" />
