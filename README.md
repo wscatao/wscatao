@@ -1,6 +1,6 @@
 # Olá, muito prazer!
 
-<a href="www.linkedin.com/in/willyscatao" target="_blank">
+<a href="linkedin.com/in/willyscatao" target="_blank">
   <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
 
