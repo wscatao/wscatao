@@ -6,9 +6,7 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
+<div class="tenor-gif-embed" data-postid="26026285" data-share-method="host" data-aspect-ratio="1.33891" data-width="100%"><a href="https://tenor.com/view/music-anime-anime-music-retro-retro-anime-gif-26026285">Music Anime Anime GIF</a>from <a href="https://tenor.com/search/music+anime-gifs">Music Anime GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ###
 
