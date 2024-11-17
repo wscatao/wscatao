@@ -1,8 +1,5 @@
 # Willy Catão
-<div align="right">
-  <img height="200" src="[https://photos.app.goo.gl/ZukH5oNHm5UcVyjw8](https://tenor.com/pt-BR/view/microsoft-hackathon-hackathon-hackathon2020-microsoft-msft-garage-gif-17807819)"  />
-</div>
-###
+
 
 - 🔭 Atualmente no meu trabalho atuo no papel de Tech Lead no Itaú Unibanco.
 - 🌱 Estou aprendendo Cloud & DevOps na Faculdade Impacta.
