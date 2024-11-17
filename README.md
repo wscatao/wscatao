@@ -1,11 +1,11 @@
 # Willy Catão
 
 
-- 🔭 Atualmente no meu trabalho atuo no papel de Tech Lead no Itaú Unibanco.
-- 🌱 Estou aprendendo Cloud & DevOps na Faculdade Impacta.
-- 💬 Gosto muito de jogos, principalmente os de sobrevivência e estratégia.
+- :computer: Atualmente no meu trabalho atuo no papel de Tech Lead no Itaú Unibanco.
+- :blue_book: Estou aprendendo Cloud & DevOps na Faculdade Impacta.
+- :video_game: Gosto muito de jogos, principalmente os de sobrevivência e estratégia.
 - 📫 Como entrar em contato comigo: linkedin
-- ⚡ Curiosidade: Gosto muito de fazer trilhas, sempre que vou, acontece alguma história inusitada!
+- :mans_shoe: Gosto muito de fazer trilhas, sempre que vou, acontece alguma história inusitada!
 
 ## Ferramentas e Tecnologias
 
