@@ -1,17 +1,8 @@
 # Willy Catão
-## Bem vindo ao meu perfil GitHub 👋
+###
 
-Se você trabalha ou estuda. Se sim, é legal citar onde e em qual área;
-O que você anda aprendendo;
-Suas experiências, caso tenha, como atividades acadêmicas ou antigos trabalhos. Caso esteja em transição de carreira, acredito que seja legal citar também;
-Contatos, mas é importante pensar direitinho quais colocarem;
-Conhecimentos adquiridos;
-Região onde mora, mas não especifique tanto;
-Entre outros, coloque apenas o que você se sentir confortável para colocar.
-
-- 🔭 Atualmente eu trabalho atuo no papel de Tech Lead no Itaú Unibanco.
+- 🔭 Atualmente no meu trabalho atuo no papel de Tech Lead no Itaú Unibanco.
 - 🌱 Estou aprendendo Cloud & DevOps na Faculdade Impacta.
-- 👯 Já trabalhei no setor bancário por diversos anos e numa virada de chave eu fiz uma transição de carreira para área de tecnologia. 
 - 💬 Gosto muito de jogos, principalmente os de sobrevivência e estratégia.
 - 📫 Como entrar em contato comigo: linkedin
 - ⚡ Curiosidade: Gosto muito de fazer trilhas, sempre que vou, acontece alguma história inusitada!
