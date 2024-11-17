@@ -6,7 +6,7 @@
 
 ###
 
-<div class="tenor-gif-embed" data-postid="26026285" data-share-method="host" data-aspect-ratio="1.33891" data-width="100%"><a href="https://tenor.com/view/music-anime-anime-music-retro-retro-anime-gif-26026285">Music Anime Anime GIF</a>from <a href="https://tenor.com/search/music+anime-gifs">Music Anime GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<iframe src="https://giphy.com/embed/lktRSfqusQtEwiOV4F" width="480" height="348" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/80s-vhs-retrowave-lktRSfqusQtEwiOV4F">via GIPHY</a></p>
 
 ###
 
