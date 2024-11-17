@@ -1,6 +1,6 @@
 # Willy Catão
 <div align="right">
-  <img height="200" src="[https://i.imgflip.com/65efzo.gif](https://photos.app.goo.gl/ZukH5oNHm5UcVyjw8)"  />
+  <img height="200" src="https://photos.app.goo.gl/ZukH5oNHm5UcVyjw8"  />
 </div>
 ###
 
