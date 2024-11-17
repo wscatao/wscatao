@@ -1,12 +1,11 @@
-# Willy Catão
+<h1 align="left">Willy Catão</h1>
 
+###
 
-- :computer: Atualmente no meu trabalho atuo no papel de Tech Lead no Itaú Unibanco.
-- :eyeglasses: Estou aprendendo Cloud & DevOps na Faculdade Impacta.
-- :video_game: Gosto muito de jogos, principalmente os de sobrevivência e estratégia.
-- 📫 Como entrar em contato comigo: linkedin
-- :mans_shoe: Gosto muito de fazer trilhas, sempre que vou, acontece alguma história inusitada!
-- :floppy_disk: Curto muito filmes retro futuristas como Alien e relógios antigos :watch:
+<p align="left">💻 Atualmente no meu trabalho atuo no papel de Tech Lead no Itaú Unibanco.<br>👓 Estou aprendendo Cloud & DevOps na Faculdade Impacta.<br>🎮 Gosto muito de jogos, principalmente os de sobrevivência e estratégia.<br>📫 Como entrar em contato comigo: linkedin<br>👞 Gosto muito de fazer trilhas, sempre que vou, acontece alguma história inusitada!<br>💾 Curto muito filmes retro futuristas tipo os filmes do Alien e jogos meio góticos como Bloodborn.  <br>⌚ Acho muito legal e coleciono relógios com cara de retro.</p>
+
+###
+
 
 ## Ferramentas e Tecnologias
 
