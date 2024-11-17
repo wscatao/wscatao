@@ -2,10 +2,11 @@
 
 
 - :computer: Atualmente no meu trabalho atuo no papel de Tech Lead no Itaú Unibanco.
-- :blue_book: Estou aprendendo Cloud & DevOps na Faculdade Impacta.
+- :eyeglasses: Estou aprendendo Cloud & DevOps na Faculdade Impacta.
 - :video_game: Gosto muito de jogos, principalmente os de sobrevivência e estratégia.
 - 📫 Como entrar em contato comigo: linkedin
 - :mans_shoe: Gosto muito de fazer trilhas, sempre que vou, acontece alguma história inusitada!
+- :floppy_disk: Curto muito filmes retro futuristas como Alien e relógios antigos :watch:
 
 ## Ferramentas e Tecnologias
 
