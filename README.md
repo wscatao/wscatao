@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">💻 Atualmente no meu trabalho atuo no papel de Tech Lead no Itaú Unibanco.<br>👓 Estou aprendendo Cloud & DevOps na Faculdade Impacta.<br>🎮 Gosto muito de jogos, principalmente os de sobrevivência e estratégia.<br>👞 Gosto muito de fazer trilhas, sempre que vou, acontece alguma história inusitada!<br>💾 Curto muito filmes retro futuristas tipo os filmes do Alien e jogos meio góticos como Bloodborn.  <br>⌚ Acho muito legal e coleciono relógios com cara de retro.</p>
+<p align="left">💻 Atualmente no meu trabalho atuo no papel de Tech Lead no Itaú Unibanco.<br>👓 Estou aprendendo Cloud & DevOps na Faculdade Impacta.<br>🎮 Gosto muito de jogos, principalmente os de sobrevivência e estratégia.<br>👞 Gosto muito de fazer trilhas, sempre que vou, acontece alguma história inusitada!<br>💾 Curto muito filmes retro futuristas tipo os filmes do Alien e jogos meio góticos como Bloodborn.  <br>⌚ Acho muito legal e coleciono relógios com cara retro.</p>
 
 ###
 
